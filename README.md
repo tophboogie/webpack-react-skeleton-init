@@ -1,12 +1,14 @@
-# nickelright
+# Webpack React Skeleton Init
 
-Development environment for the nickelright music homepage
+Development environment pre-configured with webpack, react, react-router, skeleton-css, and sass
+
+To use:
 
 - Install VirtualBox and Vagrant
-- Install Vagrant Plugins
+- Install recommended Vagrant plugins
     - `vagrant plugin install vagrant-vbguest`
     - `vagrant plugin install vagrant-notify-forwarder`
-- Use:
+- Launch Vagrant environment:
     - `vagrant up`
     - `vagrant ssh`
     - `cd /vagrant`
